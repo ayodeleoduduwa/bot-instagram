@@ -95,5 +95,5 @@ class InstagramBot:
 
 
 # Entre com o usuário e senha aqui
-jhonatanBot = InstagramBot("colocarusuario", "colocarsenha")
+jhonatanBot = InstagramBot("ColocarUsuario", "ColocarSenha")
 jhonatanBot.login()
