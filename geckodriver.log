@@ -1,0 +1,170 @@
+1617983551186	geckodriver	INFO	Listening on 127.0.0.1:51517
+1617983554171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofile8eQkMY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 4456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617983575735	Marionette	INFO	Listening on port 51525
+1617983576169	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617983703185	geckodriver	INFO	Listening on 127.0.0.1:51626
+1617983706233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileF4TNQN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617983713991	Marionette	INFO	Listening on port 51634
+1617983714162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1617983762310	geckodriver	INFO	Listening on 127.0.0.1:51709
+1617983765387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileuS0BQm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617983772601	Marionette	INFO	Listening on port 51717
+1617983772805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1617983830668	geckodriver	INFO	Listening on 127.0.0.1:51776
+1617983833739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileAB48DU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617983839628	Marionette	INFO	Listening on port 51785
+1617983840071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1617983857641	geckodriver	INFO	Listening on 127.0.0.1:51839
+1617983860704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofile2caNRT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617983866338	Marionette	INFO	Listening on port 51849
+1617983866487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1617983884436	geckodriver	INFO	Listening on 127.0.0.1:51902
+1617983887651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileKYxyOh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617983893065	Marionette	INFO	Listening on port 51911
+1617983893437	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14240, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617983920356	geckodriver	INFO	Listening on 127.0.0.1:51969
+1617983923466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofilefC6z9g"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617983928945	Marionette	INFO	Listening on port 51977
+1617983929980	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617983953297	geckodriver	INFO	Listening on 127.0.0.1:52034
+1617983956415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileVA59S8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617983961466	Marionette	INFO	Listening on port 52042
+1617983961743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617983996776	geckodriver	INFO	Listening on 127.0.0.1:52102
+1617983999826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofilePWraf0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617984006608	Marionette	INFO	Listening on port 52110
+1617984006777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617984211387	geckodriver	INFO	Listening on 127.0.0.1:52246
+1617984214516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileJLWH2w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617984231215	Marionette	INFO	Listening on port 52254
+1617984231500	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617984317421	geckodriver	INFO	Listening on 127.0.0.1:52321
+1617984320562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofilezZ45Uc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617984327596	Marionette	INFO	Listening on port 52329
+1617984328015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617984373380	geckodriver	INFO	Listening on 127.0.0.1:52391
+1617984376520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileFpBBo5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617984382970	Marionette	INFO	Listening on port 52399
+1617984383433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617984444558	geckodriver	INFO	Listening on 127.0.0.1:52461
+1617984447659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileuAiUkl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617984453154	Marionette	INFO	Listening on port 52471
+1617984453603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617984752230	geckodriver	INFO	Listening on 127.0.0.1:52642
+1617984755289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofilegZG79Y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617984763324	Marionette	INFO	Listening on port 52650
+1617984763884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617986950650	geckodriver	INFO	Listening on 127.0.0.1:53805
+1617986954087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileYaibo2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617986977083	Marionette	INFO	Listening on port 53813
+1617986978227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617987014722	geckodriver	INFO	Listening on 127.0.0.1:53890
+1617987017833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofilehsI4iP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617987023968	Marionette	INFO	Listening on port 53898
+1617987024194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617992242809	geckodriver	INFO	Listening on 127.0.0.1:49954
+1617992246414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileX2Kl3z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1617992302896	Marionette	INFO	Listening on port 49962
+1617992303319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617992494760	geckodriver	INFO	Listening on 127.0.0.1:50088
+1617992498026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofile3ZMiwN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1617992539785	Marionette	INFO	Listening on port 50096
+1617992540209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617992840720	geckodriver	INFO	Listening on 127.0.0.1:50237
+1617992843834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileIyzYqu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1617992867662	Marionette	INFO	Listening on port 50245
+1617992868189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617993010075	geckodriver	INFO	Listening on 127.0.0.1:50334
+1617993013165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileFIZzE4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617993020202	Marionette	INFO	Listening on port 50342
+1617993020684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617993122264	geckodriver	INFO	Listening on 127.0.0.1:50426
+1617993125410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofilefE3mFw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617993133875	Marionette	INFO	Listening on port 50434
+1617993133933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617993186445	geckodriver	INFO	Listening on 127.0.0.1:50491
+1617993189534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofile6xXEwk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617993195182	Marionette	INFO	Listening on port 50499
+1617993195435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617993550766	geckodriver	INFO	Listening on 127.0.0.1:50629
+1617993553899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofilevCcmFs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617993560488	Marionette	INFO	Listening on port 50637
+1617993560895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617993682347	geckodriver	INFO	Listening on 127.0.0.1:50712
+1617993685470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofilez5BfgF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617993699353	Marionette	INFO	Listening on port 50720
+1617993699372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617993841667	geckodriver	INFO	Listening on 127.0.0.1:50861
+1617993844914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofilefcrj1z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617993854834	Marionette	INFO	Listening on port 50869
+1617993855871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617994262885	geckodriver	INFO	Listening on 127.0.0.1:51057
+1617994265868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofileIcMZrw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617994288185	Marionette	INFO	Listening on port 51065
+1617994288585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617994402122	geckodriver	INFO	Listening on 127.0.0.1:51154
+1617994405254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Ayodele\\AppData\\Local\\Temp\\rust_mozprofilepo86it"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1617994428031	Marionette	INFO	Listening on port 51163
+1617994428952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617994489754	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+[Parent 9444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1617994501796	Marionette	INFO	Stopped listening on port 51163
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
